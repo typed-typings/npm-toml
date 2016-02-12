@@ -1,0 +1,4 @@
+{
+  "name": "toml",
+  "main": "src/index.d.ts"
+}

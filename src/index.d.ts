@@ -1,4 +1,6 @@
 // toml.d.ts
-declare module "toml" {
-    export function parse(tomlStr:string):any
+declare module TOML {
+    export function parse(value:string):any;
 }
+
+export = TOML;
